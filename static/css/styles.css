@@ -1,0 +1,93 @@
+/* Quitar margenes y paddings por defecto */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Variables CSS */
+:root {
+    --primary-color: #016fb9;
+    --secondary-color: #22aed1;
+    --tertiary-color: #bfb6bb;
+    --glow-color: #b3efb2;
+    --transition: 0.4s ease-in;
+    --bold-font: 700;
+}
+
+/* Scroll suave */
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: var(--primary-color);
+}
+
+a:hover {
+    color: var(--secondary-color);
+}
+
+.deep {
+    color: var(--primary-color);
+}
+.asset {
+    color: var(--secondary-color);
+}
+.sort {
+    color: var(--secondary-color);
+}
+.sort img {
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+}
+
+/* Menu de navegación */
+nav {
+    background: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 1.5rem;
+    box-shadow: 2px 3px 2px #f1f1f1;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.hamburger {
+    display: none;
+}
+
+.logo {
+    font-size: 2rem;
+    /* Agregar font weight al cambiar font*/
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid red;
+}
+
+.nav-item {
+    margin: 0 1rem;
+}
+.nav-link {
+    font-weight: var(--bold-font);
+}
+.comenzar-ahora {
+    
+}
