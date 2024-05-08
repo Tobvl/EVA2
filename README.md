@@ -13,7 +13,7 @@ Considere un tema de real interés (no recurra a temas muy utilizados ya, como v
 
 Desarrolle una investigación del mercado objetivo de la landing page. De tal suerte de entender cuales son sus reales necesidades.
 - Amplio mercado objetivo sobre necesidades tanto sencillas como complejas en la administración de activos, como lo son Universidades/Centros Educativos, Empresas de Manufactura, Hospitales/Centros de Salud, Instituciones Gubernamentales, Empresas de Logística y Transporte, etc.
->> PUNTOS FUERTES <<
+>> PUNTOS FUERTES
 - Alta Eficiencia en la gestión de activos, por su seguimiento real y acceso a estadísticas personalizables para mejorar la toma de decisiones.
 - Reducción de Costos gracias a la amplia magnitud de módulos incorporables con un solo click, así mismo evitando pérdidas o excesos de inventario.
 - Poderosa Escalabilidad y Flexibilidad, siendo un sistema muy adaptable a diferentes tipos de organizaciones y escalable según sus necesidades.
